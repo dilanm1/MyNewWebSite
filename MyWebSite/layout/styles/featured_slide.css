@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /*
 Template Name: PlusBusiness
 Author: <a href="http://www.os-templates.com/">OS Templates</a>
@@ -8,9 +8,21 @@ Licence URI: http://www.os-templates.com/template-terms
 File: Featured Slider CSS
 */
 
-#featured_slide{display:block; position:relative; width:860px; height:260px; margin:0 auto; padding:20px 50px; overflow:hidden; font-size:12px; font-family:Verdana, Arial, Helvetica, sans-serif; color:#333333; background-color:#B2C629;}
+#featured_slide{display:block; position:relative; width:860px; height:260px; margin:0 auto; padding:20px 50px; overflow:hidden; font-size:12px; font-family:Verdana, Arial, Helvetica, sans-serif; color:#333333; background-color:#B2C629;
+    top: 0px;
+    left: 0px;
+}
 #featured_slide a{color:#FFFFFF; background-color:#B2C629;}
-#featured_slide a, #featured_slide ul, #featured_slide img{margin:0; padding:0; border:none; outline:none; list-style:none; text-decoration:none;}
+#featured_slide a, #featured_slide ul, #featured_slide img{border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    list-style: none;
+    text-decoration:none;
+    right: 919px;
+}
 #featured_slide h1, #featured_slide h2, #featured_slide h3, #featured_slide h4, #featured_slide h5, #featured_slide h6{margin:15px 0 10px 0; padding:0; line-height:normal; font-size:36px; font-weight:normal; font-family:Georgia, "Times New Roman", Times, serif;}
 
 /* ----------------------------------------------Start Carousel------------------------------------- */
@@ -28,9 +40,9 @@ File: Featured Slider CSS
 
 /* ----------------------------------------------Previous & Next Buttons------------------------------------- */
 
-#featured-item-prev, #featured-item-next{display:block; position:absolute; top:118px; width:36px; height:64px;}
-#featured-item-prev{left:5px;}
-#featured-item-next{right:5px;}
+#featured-item-prev, #featured-item-next{display:block; position:absolute; top:218px; width:36px; height:64px;}
+#featured-item-prev{left:35px;}
+#featured-item-next{right:35px;}
 
 /* ---------------------------------------------------------------------------------------------------------- */
 /* ---------------DO NOT CHANGE THE FOLLOWING CODE OTHERWISE THE FEATURED PANEL WONT WORK-------------------- */

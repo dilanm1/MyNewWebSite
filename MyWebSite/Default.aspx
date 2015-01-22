@@ -1,6 +1,11 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="MyWebSite.Default" %>
-<asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
-    <ul>
+<asp:Content runat="server" ContentPlaceHolderID="FeaturedContent">
+    <link href="layout/styles/featured_slide.css" rel="stylesheet" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css"/>
+<div class="wrapper col2">
+ <div id="featured_slide">
+ <div id="featured_content">
+      <ul>
         <li><img src="layout/images/web-401497_640.jpg" alt="" />
           <div class="floater">
             <h2>Welcome to VirgoSoft!</h2>
@@ -22,7 +27,14 @@
             <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>
           </div>
         </li>
-      </ul>
+      </ul>   
+           
+      </div>
+             
+      </div> 
+     
+      </div> 
+     <a href="javascript:void(0);" id="featured-item-prev"><img src="layout/images/prev.png" alt="" /></a> <a href="javascript:void(0);" id="featured-item-next"><img src="layout/images/next.png" alt="" /></a>  
 </asp:Content>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <ul>

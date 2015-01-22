@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace MyWebSite
 {
-    public partial class Contact : System.Web.UI.Page
+    public partial class What_we_do : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

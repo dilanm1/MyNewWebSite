@@ -1,50 +1,14 @@
-﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="MyWebSite.Contact" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="MyWebSite.Contact" %>
 
-<asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-    <hgroup class="title">
-        <h1><%: Title %>.</h1>
-        <h2>Your contact page.</h2>
-    </hgroup>
-
-    <section class="contact">
-        <header>
-            <h3>Phone:</h3>
-        </header>
-        <p>
-            <span class="label">Main:</span>
-            <span>425.555.0100</span>
-        </p>
-        <p>
-            <span class="label">After Hours:</span>
-            <span>425.555.0199</span>
-        </p>
-    </section>
-
-    <section class="contact">
-        <header>
-            <h3>Email:</h3>
-        </header>
-        <p>
-            <span class="label">Support:</span>
-            <span><a href="mailto:Support@example.com">Support@example.com</a></span>
-        </p>
-        <p>
-            <span class="label">Marketing:</span>
-            <span><a href="mailto:Marketing@example.com">Marketing@example.com</a></span>
-        </p>
-        <p>
-            <span class="label">General:</span>
-            <span><a href="mailto:General@example.com">General@example.com</a></span>
-        </p>
-    </section>
-
-    <section class="contact">
-        <header>
-            <h3>Address:</h3>
-        </header>
-        <p>
-            One Microsoft Way<br />
-            Redmond, WA 98052-6399
-        </p>
-    </section>
+<asp:Content ID="Content1" ContentPlaceHolderID="FeaturedContent" runat="server">
+    <link href="layout/styles/featured_slide.css" rel="stylesheet" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css"/>
+<div id="breadcrumb"><asp:SiteMapPath ID="SiteMapPath1" runat="server" Font-Names="Verdana" Font-Size="0.8em" PathSeparator=" : ">
+    <CurrentNodeStyle ForeColor="#333333" />
+    <NodeStyle Font-Bold="True" ForeColor="#990000" />
+    <PathSeparatorStyle Font-Bold="True" ForeColor="#990000" />
+    <RootNodeStyle Font-Bold="True" ForeColor="#FF8000" />
+    </asp:SiteMapPath></div>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 </asp:Content>
