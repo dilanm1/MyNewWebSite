@@ -4,13 +4,74 @@
     <link href="layout/styles/featured_slide.css" rel="stylesheet" />
 <link rel="stylesheet" href="layout/styles/layout.css" type="text/css"/>
 <div id="breadcrumb">
-<asp:SiteMapPath ID="SiteMapPath1" runat="server" Font-Names="Verdana" Font-Size="0.8em" PathSeparator=" : ">
-    <CurrentNodeStyle ForeColor="#333333" />
-    <NodeStyle Font-Bold="True" ForeColor="#990000" />
-    <PathSeparatorStyle Font-Bold="True" ForeColor="#990000" />
-    <RootNodeStyle Font-Bold="True" ForeColor="#FF8000" />
-    </asp:SiteMapPath>
 </div>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+      <h1>Contact Us</h1>
+     <table border = "0" style="width: 409px">
+    <tr>
+        <td>
+            <asp:Label ID="Label1" runat="server" Text="Name*"></asp:Label><br />
+        </td>
+        <td>
+            <asp:TextBox ID="txtName" runat="server" ValidationGroup = "contact"></asp:TextBox><br />
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="*"
+             ControlToValidate = "txtName"></asp:RequiredFieldValidator>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <asp:Label ID="Label2" runat="server" Text="Subject*"></asp:Label><br />
+        </td>
+        <td>
+            <asp:TextBox ID="txtSubject" runat="server"></asp:TextBox><br />
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="*"
+             ControlToValidate = "txtSubject"></asp:RequiredFieldValidator>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <asp:Label ID="Label3" runat="server" Text="Email*"></asp:Label><br />
+        </td>
+        <td>
+            <asp:TextBox ID="txtEmail" runat="server"></asp:TextBox><br />
+            <asp:RegularExpressionValidator id="valRegEx" runat="server"
+            ControlToValidate="txtEmail"
+            ValidationExpression=".*@.*\..*"
+            ErrorMessage="*Invalid Email address."
+            display="dynamic">
+            </asp:RegularExpressionValidator>
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ErrorMessage="*"
+            ControlToValidate = "txtEmail"></asp:RequiredFieldValidator>
+        </td>
+    </tr>
+    <tr>
+        <td valign = "top" >
+            <asp:Label ID="Label4" runat="server" Text="Body*"></asp:Label>
+        </td>
+        <td>
+            <asp:TextBox ID="txtBody" runat="server" TextMode = "MultiLine" ></asp:TextBox><br />
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ErrorMessage="*"
+            ControlToValidate = "txtBody"></asp:RequiredFieldValidator>
+        </td>
+    </tr>
+     <tr>
+        <td></td>
+        <td>
+            <asp:FileUpload ID="FileUpload1" runat="server" />
+       </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <asp:Button ID="btnSend" runat="server" Text="Send" OnClick="btnSend_Click" />
+       </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <asp:Label ID="lblMessage" runat="server" Text="" ForeColor = "Green"></asp:Label>
+       </td>
+    </tr>
+</table>
 </asp:Content>
