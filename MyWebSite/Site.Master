@@ -15,7 +15,7 @@
 <form id="Form1" runat="server">
 <!-- ####################################################################################################### -->
 <div class="wrapper col1">
-  <div id="header">
+  <div id="header">    
     <div id="logo">
       <h1><a href="./">VirgoSoft</a></h1>
       <p>IT Sollutions</p>
@@ -24,7 +24,13 @@
       <ul>
         <li><a href="Default.aspx">Home</a></li>
         <li><a href="Who-are-we.aspx">Who we are</a></li>
-        <li><a href="What-we-do.aspx">What we do</a></li>
+        <li><a href="What-we-do.aspx">What we do</a>
+            <ul>
+            <li><a href="Web-site-development.aspx">Web Site Developement</a></li>
+            <li><a href="Web-windows-applicaions.aspx">Bespoke Web & Windows Applicaions</a></li>
+            <li><a href="Databases-and-BI.aspx">Bespoke Databases & Business Intelligence</a></li>
+          </ul>
+        </li>
         <li><a href="#">Products</a>
           <ul>
             <li><a href="#">Audit Applicaion(Web)</a></li>
@@ -66,13 +72,12 @@
     <div class="box contactdetails">
       <h2>Our Contact Details !</h2>
       <ul>
-        <li>Company Name</li>
-        <li>Street Name &amp; Number</li>
-        <li>Town</li>
-        <li>Postcode/Zip</li>
-        <li>Tel: xxxxx xxxxxxxxxx</li>
-        <li>Fax: xxxxx xxxxxxxxxx</li>
-        <li>Email: info@domain.com</li>
+        <li>VirgoSoft IT Sollutions</li>
+        <li>25 Range Road</li>
+        <li>Wrexham</li>
+        <li>LL13 7BN</li>
+        <li>Tel: 01978311157</li>
+        <li>Email: info@VirgoSoft.com</li>
         <li class="last">LinkedIn: <a href="#">Company Profile</a></li>
       </ul>
     </div>
@@ -96,7 +101,7 @@
 <div class="wrapper col5">
   <div id="copyright">
     <p class="fl_left">Copyright &copy; 2015 - All Rights Reserved - <a href="#">VirgoSoft</a></p>
-    <p class="fl_right">Website by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">Dilan Jayawardene</a></p>
+    <p class="fl_right">Website by <a target="_blank" href="http://mywebsite-18.apphb.com/" title="VirgoSoft design">Dilan Jayawardene</a></p>
     <br class="clear" />
   </div>
 </div>

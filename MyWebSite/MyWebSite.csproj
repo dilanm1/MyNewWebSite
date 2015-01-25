@@ -183,6 +183,7 @@
     <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="Databases-and-BI.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="images\demo\blue-facebook-logo.png" />
     <Content Include="images\demo\1.gif" />
@@ -201,14 +202,16 @@
     <Content Include="images\demo\twitter_circle_color-512.png" />
     <Content Include="images\demo\Virgo-Horoscope-4.png" />
     <Content Include="images\demo\zodiac_virgo-navy.png" />
+    <Content Include="layout\images\prev.png" />
     <Content Include="layout\images\ID-10072741.jpg" />
     <Content Include="layout\images\responsive-web-design-ace.jpg" />
+    <Content Include="layout\images\next.png" />
     <Content Include="layout\images\web-401497_640.jpg" />
     <Content Include="layout\images\WebApplicationDevelopment.jpg" />
     <Content Include="images\index.html" />
     <Content Include="layout\images\index.html" />
-    <Content Include="layout\images\next.png" />
-    <Content Include="layout\images\prev.png" />
+    <Content Include="layout\images\next1.png" />
+    <Content Include="layout\images\prev1.png" />
     <Content Include="layout\scripts\index.html" />
     <Content Include="layout\scripts\jquery.jcarousel.pack.js" />
     <Content Include="layout\scripts\jquery.jcarousel.setup.js" />
@@ -222,6 +225,8 @@
     <Content Include="layout\styles\navi.css" />
     <Content Include="layout\styles\tables.css" />
     <Content Include="packages.config" />
+    <Content Include="Web-site-development.aspx" />
+    <Content Include="Web-windows-applicaions.aspx" />
     <Content Include="What-we-do.aspx" />
     <Content Include="Who-are-we.aspx" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
@@ -311,6 +316,13 @@
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Databases-and-BI.aspx.cs">
+      <DependentUpon>Databases-and-BI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Databases-and-BI.aspx.designer.cs">
+      <DependentUpon>Databases-and-BI.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -328,6 +340,20 @@
     </Compile>
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Web-site-development.aspx.cs">
+      <DependentUpon>Web-site-development.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web-site-development.aspx.designer.cs">
+      <DependentUpon>Web-site-development.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web-windows-applicaions.aspx.cs">
+      <DependentUpon>Web-windows-applicaions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web-windows-applicaions.aspx.designer.cs">
+      <DependentUpon>Web-windows-applicaions.aspx</DependentUpon>
     </Compile>
     <Compile Include="What-we-do.aspx.cs">
       <DependentUpon>What-we-do.aspx</DependentUpon>
