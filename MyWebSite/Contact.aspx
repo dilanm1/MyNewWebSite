@@ -8,13 +8,14 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
       <h1>Contact Us</h1>
-     <table border = "0" style="width: 409px">
+<div id="left"> 
+     <table border = "0" style="width: 660px">
     <tr>
         <td>
             <asp:Label ID="Label1" runat="server" Text="Name*"></asp:Label><br />
         </td>
         <td>
-            <asp:TextBox ID="txtName" runat="server" ValidationGroup = "contact"></asp:TextBox><br />
+            <asp:TextBox ID="txtName" runat="server" ValidationGroup = "contact" Width="194px"></asp:TextBox><br />
             <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="*"
              ControlToValidate = "txtName"></asp:RequiredFieldValidator>
         </td>
@@ -24,7 +25,7 @@
             <asp:Label ID="Label2" runat="server" Text="Subject*"></asp:Label><br />
         </td>
         <td>
-            <asp:TextBox ID="txtSubject" runat="server"></asp:TextBox><br />
+            <asp:TextBox ID="txtSubject" runat="server" Width="194px"></asp:TextBox><br />
             <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="*"
              ControlToValidate = "txtSubject"></asp:RequiredFieldValidator>
         </td>
@@ -34,7 +35,7 @@
             <asp:Label ID="Label3" runat="server" Text="Email*"></asp:Label><br />
         </td>
         <td>
-            <asp:TextBox ID="txtEmail" runat="server"></asp:TextBox><br />
+            <asp:TextBox ID="txtEmail" runat="server" Width="194px"></asp:TextBox><br />
             <asp:RegularExpressionValidator id="valRegEx" runat="server"
             ControlToValidate="txtEmail"
             ValidationExpression=".*@.*\..*"
@@ -50,7 +51,7 @@
             <asp:Label ID="Label4" runat="server" Text="Body*"></asp:Label>
         </td>
         <td>
-            <asp:TextBox ID="txtBody" runat="server" TextMode = "MultiLine" ></asp:TextBox><br />
+            <asp:TextBox ID="txtBody" runat="server" TextMode = "MultiLine" Height="76px" Width="378px" ></asp:TextBox><br />
             <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ErrorMessage="*"
             ControlToValidate = "txtBody"></asp:RequiredFieldValidator>
         </td>
@@ -74,4 +75,6 @@
        </td>
     </tr>
 </table>
+</div>
+<div id="right"> </div>
 </asp:Content>

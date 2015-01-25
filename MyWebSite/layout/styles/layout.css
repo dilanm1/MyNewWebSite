@@ -35,6 +35,20 @@ img{display:block; margin:0; padding:0; border:none;}
 .imgl{margin:0 8px 8px 0; clear:left;}
 .imgr{margin:0 0 8px 8px; clear:right;}
 
+#left { /*720px*/
+    width: 660px;
+    padding: 30px;
+    float: left;
+    background: #fff;
+}
+ 
+#right { /*240px*/
+    width: 195px;
+    padding: 30px 15px 30px 30px;
+    float: left;
+    background: #ccc;
+}
+
 /* ----------------------------------------------Wrapper------------------------------------- */
 
 div.wrapper{display:block; width:100%; margin:0; text-align:left;}
