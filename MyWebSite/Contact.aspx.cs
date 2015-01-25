@@ -18,7 +18,7 @@ namespace MyWebSite
 
         protected void btnSend_Click(object sender, EventArgs e)
         {
-            MailMessage mm = new MailMessage("sender@gmail.com", "receiver@gmail.com");
+            MailMessage mm = new MailMessage("djnuni9@googlemail.com", "djnuni9@googlemail.com");
             mm.Subject = txtSubject.Text;
             mm.Body = "Name: " + txtName.Text + "<br /><br />Email: " + txtEmail.Text + "<br />" + txtBody.Text;
             if (FileUpload1.HasFile)
@@ -32,7 +32,7 @@ namespace MyWebSite
             smtp.EnableSsl = true;
             System.Net.NetworkCredential NetworkCred = new System.Net.NetworkCredential();
             NetworkCred.UserName = "djnuni9@googlemail.com";
-            NetworkCred.Password = "nicole17";
+            NetworkCred.Password = "sophienicole1978";
             smtp.UseDefaultCredentials = true;
             smtp.Credentials = NetworkCred;
             smtp.Port = 587;
