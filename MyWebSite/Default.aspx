@@ -39,17 +39,17 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <ul>
         <li>
-          <h2><img src="images/demo/60x60.gif" alt="" />Web Site Developement</h2>
+          <h2><img src="images/demo/world-wide-web-analogic-263485-m.jpg" alt="" />Web Site Developement</h2>
           <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
           <p class="readmore"><a href="Web-site-development.aspx">Continue Reading &raquo;</a></p>
         </li>
         <li>
-          <h2><img src="images/demo/60x60.gif" alt="" />Bespoke Web & Windows Applicaions</h2>
+          <h2><img src="images/demo/world-wide-web-analogic-263485-m.jpg" alt="" />Bespoke Web & Windows Applicaions</h2>
           <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
           <p class="readmore"><a href="Web-windows-applicaions.aspx">Continue Reading &raquo;</a></p>
         </li>
         <li class="last">
-          <h2><img src="images/demo/60x60.gif" alt="" />Bespoke Databases & Business Intelligence</h2>
+          <h2><img src="images/demo/world-wide-web-analogic-263485-m.jpg" alt="" />Bespoke Databases & Business Intelligence</h2>
           <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
           <p class="readmore"><a href="Databases-and-BI.aspx">Continue Reading &raquo;</a></p>
         </li>

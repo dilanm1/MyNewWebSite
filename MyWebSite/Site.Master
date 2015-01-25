@@ -100,8 +100,8 @@
 <!-- ####################################################################################################### -->
 <div class="wrapper col5">
   <div id="copyright">
-    <p class="fl_left">Copyright &copy; 2015 - All Rights Reserved - <a href="#">VirgoSoft</a></p>
-    <p class="fl_right">Website by <a target="_blank" href="http://mywebsite-18.apphb.com/" title="VirgoSoft design">Dilan Jayawardene</a></p>
+    <p class="fl_left" style="color: #000000">Copyright &copy; 2015 - All Rights Reserved - <a href="#" style="color: #000000">VirgoSoft</a></p>
+    <p class="fl_right" style="color: #000000">Website by <a target="_blank" href="http://mywebsite-18.apphb.com/" title="VirgoSoft design" style="color: #000000">Dilan Jayawardene</a></p>
     <br class="clear" />
   </div>
 </div>
