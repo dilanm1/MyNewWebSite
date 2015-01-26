@@ -8,8 +8,8 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
       <h1>Contact Us</h1>
-<div id="left"> 
-     <table border = "0" style="width: 660px">
+<div id="left1"> 
+     <table class="tableContact" border = "0"  style="width: 660px">
     <tr>
         <td>
             <asp:Label ID="Label1" runat="server" Text="Name*"></asp:Label><br />

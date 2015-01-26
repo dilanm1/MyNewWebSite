@@ -15,14 +15,21 @@
         </li>
         <li><img src="layout/images/responsive-web-design-ace.jpg" alt="" />
           <div class="floater">
-            <h2>Cursus penati saccum ut curabitur nulla.</h2>
+            <h2>Web Site Developement.</h2>
             <p>We are able to build fully content managed websites using a CMS system which you can maintain yourself. For more advanced websites with very specific requirements, for example customer login, media sharing or perhaps a searchable database, we can develop a full web based application to suit your needs.</p>
             <p class="readmore"><a href="Web-windows-applicaions.aspx">Continue Reading &raquo;</a></p>
           </div>
         </li>
         <li><img src="layout/images/ID-10072741.jpg" alt="" />
           <div class="floater">
-            <h2>Cursus penati saccum ut curabitur nulla.</h2>
+            <h2>Bespoke Web & Windows Applicaions.</h2>
+            <p>Temperinte interdum sempus odio urna eget curabitur semper convallis nunc laoreet. Nullain convallis ris elis vest liberos nis diculis feugiat in rutrum. Suspendreristibulumfaucibulum lobortor quis tortortor ris sapien sce enim et volutpat sus. Urnaretiumorci orci fauctor leo justo nulla cras ridiculum&hellip;</p>
+            <p class="readmore"><a href="Databases-and-BI.aspx">Continue Reading &raquo;</a></p>
+          </div>
+        </li>
+         <li><img src="layout/images/ID-10072741.jpg" alt="" />
+          <div class="floater">
+            <h2>Bespoke Databases & Business Intelligence.</h2>
             <p>Temperinte interdum sempus odio urna eget curabitur semper convallis nunc laoreet. Nullain convallis ris elis vest liberos nis diculis feugiat in rutrum. Suspendreristibulumfaucibulum lobortor quis tortortor ris sapien sce enim et volutpat sus. Urnaretiumorci orci fauctor leo justo nulla cras ridiculum&hellip;</p>
             <p class="readmore"><a href="Databases-and-BI.aspx">Continue Reading &raquo;</a></p>
           </div>
