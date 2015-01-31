@@ -194,6 +194,7 @@
     <Content Include="images\demo\60x60.gif" />
     <Content Include="images\demo\80x80.gif" />
     <Content Include="images\demo\avatar.gif" />
+    <Content Include="images\demo\facebook-icon-web.jpg" />
     <Content Include="images\demo\g+128.png" />
     <Content Include="images\demo\googleplus-revised.png" />
     <Content Include="images\demo\imgl.gif" />
@@ -229,6 +230,7 @@
     <Content Include="layout\styles\navi.css" />
     <Content Include="layout\styles\tables.css" />
     <Content Include="packages.config" />
+    <Content Include="twitter_circle_color-512.png" />
     <Content Include="Web-site-development.aspx" />
     <Content Include="Web-windows-applicaions.aspx" />
     <Content Include="What-we-do.aspx" />
