@@ -20,14 +20,14 @@
             <p class="readmore"><a href="Web-windows-applicaions.aspx">Continue Reading &raquo;</a></p>
           </div>
         </li>
-        <li><img src="layout/images/ID-10072741.jpg" alt="" />
+        <li><img src="layout/images/webapp_image1.jpg" alt="" />
           <div class="floater">
             <h2>Bespoke Web & Windows Applicaions.</h2>
             <p>Temperinte interdum sempus odio urna eget curabitur semper convallis nunc laoreet. Nullain convallis ris elis vest liberos nis diculis feugiat in rutrum. Suspendreristibulumfaucibulum lobortor quis tortortor ris sapien sce enim et volutpat sus. Urnaretiumorci orci fauctor leo justo nulla cras ridiculum&hellip;</p>
             <p class="readmore"><a href="Databases-and-BI.aspx">Continue Reading &raquo;</a></p>
           </div>
         </li>
-         <li><img src="layout/images/ID-10072741.jpg" alt="" />
+         <li><img src="layout/images/bi.jpg" alt="" />
           <div class="floater">
             <h2>Bespoke Databases & Business Intelligence.</h2>
             <p>Temperinte interdum sempus odio urna eget curabitur semper convallis nunc laoreet. Nullain convallis ris elis vest liberos nis diculis feugiat in rutrum. Suspendreristibulumfaucibulum lobortor quis tortortor ris sapien sce enim et volutpat sus. Urnaretiumorci orci fauctor leo justo nulla cras ridiculum&hellip;</p>

@@ -207,6 +207,8 @@
     <Content Include="images\demo\virgo.jpg" />
     <Content Include="images\demo\world-wide-web-analogic-263485-m.jpg" />
     <Content Include="images\demo\zodiac_virgo-navy.png" />
+    <Content Include="layout\images\bi.jpg" />
+    <Content Include="layout\images\webapp_image.png" />
     <Content Include="layout\images\prev.png" />
     <Content Include="layout\images\ID-10072741.jpg" />
     <Content Include="layout\images\responsive-web-design-ace.jpg" />
@@ -217,6 +219,7 @@
     <Content Include="layout\images\index.html" />
     <Content Include="layout\images\next1.png" />
     <Content Include="layout\images\prev1.png" />
+    <Content Include="layout\images\webapp_image1.jpg" />
     <Content Include="layout\scripts\index.html" />
     <Content Include="layout\scripts\jquery.jcarousel.pack.js" />
     <Content Include="layout\scripts\jquery.jcarousel.setup.js" />
