@@ -46,17 +46,20 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <ul>
         <li>
-          <h2><img src="images/demo/world-wide-web-analogic-263485-m.jpg" alt="" />Web Site Developement</h2>
+          <a class="image_container" href="Web-site-development.aspx">
+          <img src="layout/images/web-401497_640.jpg" alt="" /></a><h2>Web Site Developement</h2>
           <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
           <p class="readmore"><a href="Web-site-development.aspx">Continue Reading &raquo;</a></p>
         </li>
         <li>
-          <h2><img src="images/demo/world-wide-web-analogic-263485-m.jpg" alt="" />Bespoke Web & Windows Applicaions</h2>
+           <a class="image_container" href="Web-windows-applicaions.aspx">
+          <img src="layout/images/web-401497_640.jpg" alt="" /></a><h2>Bespoke Web & Windows Applicaions</h2>
           <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
           <p class="readmore"><a href="Web-windows-applicaions.aspx">Continue Reading &raquo;</a></p>
         </li>
         <li class="last">
-          <h2><img src="images/demo/world-wide-web-analogic-263485-m.jpg" alt="" />Bespoke Databases & Business Intelligence</h2>
+           <a class="image_container" href="Databases-and-BI.aspx">
+          <img src="layout/images/web-401497_640.jpg" alt="" /></a><h2>Bespoke Databases & Business Intelligence</h2>
           <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
           <p class="readmore"><a href="Databases-and-BI.aspx">Continue Reading &raquo;</a></p>
         </li>
