@@ -207,8 +207,11 @@
     <Content Include="images\demo\virgo.jpg" />
     <Content Include="images\demo\world-wide-web-analogic-263485-m.jpg" />
     <Content Include="images\demo\zodiac_virgo-navy.png" />
+    <Content Include="layout\images\10_1_2013_14_37_4225_asp_dot_net_logo.gif" />
     <Content Include="layout\images\11977161-aspnet-app-development.jpg" />
+    <Content Include="layout\images\asp_net.jpg" />
     <Content Include="layout\images\bi.jpg" />
+    <Content Include="layout\images\Microsoft .NET Framework 4.x.jpg" />
     <Content Include="layout\images\resizedimage485300-Whats-new-1-big.jpg" />
     <Content Include="layout\images\web-design-dev.png" />
     <Content Include="layout\images\webapp_image.png" />
@@ -229,6 +232,7 @@
     <Content Include="layout\scripts\jquery.min.js" />
     <Content Include="layout\styles\featured_slide.css" />
     <Content Include="layout\styles\forms.css" />
+    <Content Include="layout\images\18ixk1fo0tlszjpg.jpg" />
     <Content Include="layout\styles\images\black_file.gif" />
     <Content Include="layout\styles\images\green_file.gif" />
     <Content Include="layout\styles\images\index.html" />
