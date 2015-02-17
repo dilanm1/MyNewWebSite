@@ -47,7 +47,7 @@
     <ul>
         <li>
           <a class="image_container" href="Web-site-development.aspx">
-          <img src="layout/images/web-401497_640.jpg" alt="" /></a><h2>Web Site Developement</h2>
+          <img src="layout/images/web-design-dev.png" alt="" /></a><h2>Web Site Developement</h2>
           <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
           <p class="readmore"><a href="Web-site-development.aspx">Continue Reading &raquo;</a></p>
         </li>
