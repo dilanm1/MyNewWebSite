@@ -195,11 +195,14 @@
     <Content Include="images\demo\80x80.gif" />
     <Content Include="images\demo\avatar.gif" />
     <Content Include="images\demo\facebook-icon-web.jpg" />
+    <Content Include="images\demo\Facebook-icon.png" />
     <Content Include="images\demo\g+128.png" />
+    <Content Include="images\demo\GooglePlus-icon.png" />
     <Content Include="images\demo\googleplus-revised.png" />
     <Content Include="images\demo\imgl.gif" />
     <Content Include="images\demo\imgr.gif" />
     <Content Include="images\demo\index.html" />
+    <Content Include="images\demo\LinkedIn-icon.png" />
     <Content Include="images\demo\square-facebook-128.png" />
     <Content Include="images\demo\twitter-icon.png" />
     <Content Include="images\demo\twitter_circle_color-512.png" />

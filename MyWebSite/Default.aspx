@@ -23,17 +23,18 @@
         <li><img src="layout/images/webapp_image1.jpg" alt="" />
           <div class="floater">
             <h2>Bespoke Web & Windows Applicaions.</h2>
-            <p>Temperinte interdum sempus odio urna eget curabitur semper convallis nunc laoreet. Nullain convallis ris elis vest liberos nis diculis feugiat in rutrum. Suspendreristibulumfaucibulum lobortor quis tortortor ris sapien sce enim et volutpat sus. Urnaretiumorci orci fauctor leo justo nulla cras ridiculum&hellip;</p>
+            <p>With the power of the Microsoft .NET framework, ASP.NET web applications allow the software development of solid, scalable and agile applications for any modern business.If you need an ASP.NET application to simply serve as a dashboard to your companies database, or even something much more involved, we can help you build your application that can free up a tremendous amount of staff time, improve efficiencies throughout the business and provide a competitive advantage over your non-automated competition.&hellip;</p>
             <p class="readmore"><a href="Databases-and-BI.aspx">Continue Reading &raquo;</a></p>
           </div>
         </li>
          <li><img src="layout/images/bi.jpg" alt="" />
           <div class="floater">
             <h2>Bespoke Databases & Business Intelligence.</h2>
-            <p>Temperinte interdum sempus odio urna eget curabitur semper convallis nunc laoreet. Nullain convallis ris elis vest liberos nis diculis feugiat in rutrum. Suspendreristibulumfaucibulum lobortor quis tortortor ris sapien sce enim et volutpat sus. Urnaretiumorci orci fauctor leo justo nulla cras ridiculum&hellip;</p>
+            <p>We deliver customised Business Intelligence based on Microsoft solutions such as SQL Server Analysis and Reporting Services. These tools enable non-technical people in your business to run complex queries on data and create meaningful reports fast.&hellip;</p>
             <p class="readmore"><a href="Databases-and-BI.aspx">Continue Reading &raquo;</a></p>
           </div>
         </li>
+
       </ul>   
            
       </div>
@@ -53,10 +54,11 @@
         </li>
         <li>
            <a class="image_container" href="Web-windows-applicaions.aspx">
-          <img src="layout/images/10_1_2013_14_37_4225_asp_dot_net_logo.gif" alt="" /></a><h2>Bespoke Web & Windows Applicaions</h2>
+          <img src="layout/images/10_1_2013_14_37_4225_asp_dot_net_logo.gif" alt="" /></a><h2>Bespoke Windows, Web & Mobile Applicaions</h2>
           <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
           <p class="readmore"><a href="Web-windows-applicaions.aspx">Continue Reading &raquo;</a></p>
         </li>
+
         <li class="last">
            <a class="image_container" href="Databases-and-BI.aspx">
           <img src="layout/images/resizedimage485300-Whats-new-1-big.jpg" alt="" /></a><h2>Bespoke Databases & Business Intelligence</h2>
