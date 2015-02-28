@@ -23,7 +23,7 @@
         <li><img src="layout/images/webapp_image1.jpg" alt="" />
           <div class="floater">
             <h2>Bespoke Web & Windows Applicaions.</h2>
-            <p>With the power of the Microsoft .NET framework, ASP.NET web applications allow the software development of solid, scalable and agile applications for any modern business.If you need an ASP.NET application to simply serve as a dashboard to your companies database, or even something much more involved, we can help you build your application that can free up a tremendous amount of staff time, improve efficiencies throughout the business and provide a competitive advantage over your non-automated competition.&hellip;</p>
+            <p>With the power of the Microsoft .NET framework, ASP.NET web applications allow the software development of solid, scalable and agile applications for any modern business..&hellip;</p>
             <p class="readmore"><a href="Databases-and-BI.aspx">Continue Reading &raquo;</a></p>
           </div>
         </li>
@@ -55,14 +55,14 @@
         <li>
            <a class="image_container" href="Web-windows-applicaions.aspx">
           <img src="layout/images/10_1_2013_14_37_4225_asp_dot_net_logo.gif" alt="" /></a><h2>Bespoke Windows, Web & Mobile Applicaions</h2>
-          <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
+          <p>If you need an ASP.NET application to simply serve as a dashboard to your companies database, or even something much more involved, we can help you build your application that can free up a tremendous amount of staff time, improve efficiencies throughout the business and provide a competitive advantage over your non-automated competition.</p>
           <p class="readmore"><a href="Web-windows-applicaions.aspx">Continue Reading &raquo;</a></p>
         </li>
 
         <li class="last">
            <a class="image_container" href="Databases-and-BI.aspx">
           <img src="layout/images/resizedimage485300-Whats-new-1-big.jpg" alt="" /></a><h2>Bespoke Databases & Business Intelligence</h2>
-          <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
+          <p>Our custom Business Intelligence solutions can help significantly improve the efficiency and effectiveness of your business' processes.An accessible Business Intelligence System lies at the heart of many organisations and often integrates with other peripheral systems and processes. With this in mind every system that we design and construct is completely bespoke as to meet your exact business requirements..</p>
           <p class="readmore"><a href="Databases-and-BI.aspx">Continue Reading &raquo;</a></p>
         </li>
       </ul>
