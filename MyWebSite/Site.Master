@@ -35,7 +35,7 @@
           <ul>
             <li><a href="#">Audit Applicaion(Web)</a></li>
             <li><a href="#">Audit Application(Windows)</a></li>
-            <li><a href="#">Poultry System</a></li>
+            <li><a href="#">Purchase Order System</a></li>
           </ul>
         </li>
         <li class="last"><a href="Contact.aspx">Contact us</a></li>
@@ -66,8 +66,8 @@
     <div class="box1">
       <h2>A Little Company Information !</h2>
       <img class="imgl" src="images/demo/virgo.jpg" alt="" />
-      <p>Morbitincidunt maurisque eros molest nunc anteget sed vel lacus mus semper. Anterdumnullam interdum eros dui urna consequam ac nisl nullam ligula vestassa. Condimentumfelis et amet tellent quisquet a leo lacus nec augue</p>
-      <p>Portortornec condimenterdum eget consectetuer condis.</p>
+      <p>We Are a young and professional IT solluions providing company based in wrexham UK.</p>
+      <p>Our Services include Web site/Web and Windows applications development and Database sollutions design and development.</p>
     </div>
     <div class="box contactdetails">
       <h2>Our Contact Details !</h2>
@@ -101,7 +101,7 @@
 <div class="wrapper col5">
   <div id="copyright">
     <p class="fl_left" style="color: #000000">Copyright &copy; 2015 - All Rights Reserved - <a href="#" style="color: #000000">VirgoSoft</a></p>
-    <p class="fl_right" style="color: #000000">Website by<a target="_blank" href="http://mywebsite-18.apphb.com/" title="VirgoSoft design" style="color: #000000">Dilan Jayawardene</a></p>
+    <p class="fl_right" style="color: #000000">Website by<a target="_blank" href="http://mywebsite-18.apphb.com/" title="VirgoSoft design" style="color: #000000"> Dilan Jayawardene</a></p>
     <br class="clear" />
   </div>
 </div>

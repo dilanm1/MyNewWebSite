@@ -76,5 +76,4 @@
     </tr>
 </table>
 </div>
-<div id="right"> </div>
 </asp:Content>
